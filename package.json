@@ -1,0 +1,11 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "tutorial purpose",
+  "main": "index.js",
+  "author": "Mukesh",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
